@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install pyfiglet pygame
+telnet towel.blinkenlights.nl
