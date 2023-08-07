@@ -7,5 +7,8 @@ ln<A script that displays a confused smile>
 **Task *2. Let's display a file**
 ln<A script that display the content of the /etc/passwd file>
 
-**Task *What about 2?**
+**Task *3. What about 2?**
 ln<A script that display the content of /etc/passwd and /etc/hosts>
+
+**Task *4. Last lines of a file**
+ln<A script that display the last 10 lines of /etc/passwd>
