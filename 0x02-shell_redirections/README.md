@@ -12,3 +12,6 @@ ln<A script that display the content of /etc/passwd and /etc/hosts>
 
 **Task *4. Last lines of a file**
 ln<A script that display the last 10 lines of /etc/passwd>
+
+**Task *5. I'd prefer the first ones actually**
+ln<A script that display the first 10 lines of /etc/passwd>
