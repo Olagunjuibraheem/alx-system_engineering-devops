@@ -15,3 +15,6 @@ ln<A script that display the last 10 lines of /etc/passwd>
 
 **Task *5. I'd prefer the first ones actually**
 ln<A script that display the first 10 lines of /etc/passwd>
+
+**Task *6. Line #2**
+ln<A script that displays the third line of the file iacta>
