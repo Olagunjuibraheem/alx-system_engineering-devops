@@ -18,5 +18,8 @@ ln<A script that lists environment variables>
 **Task *5. Local variables**
 ln<A script that lists all local variables and environment variables, and functions>
 
-**Task *7. Global variable**
+**Task *7. Local variable**
 ln<A script that creates a new local variable>
+
+**Task *7. Global variable**
+ln<A script that creates a new Global variable>
