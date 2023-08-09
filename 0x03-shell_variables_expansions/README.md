@@ -14,3 +14,6 @@ ln<A script that counts the number of directories in the PATH>
 
 **Task *4. Global variables**
 ln<A script that lists environment variables>
+
+**Task *5. Local variables**
+ln<A script that lists all local variables and environment variables, and functions>
