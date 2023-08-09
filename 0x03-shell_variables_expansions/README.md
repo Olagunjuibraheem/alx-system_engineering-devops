@@ -26,3 +26,6 @@ ln<A script that creates a new Global variable>
 
 **Task *8. Every addition to true knowledge is an addition to human power**
 ln<A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line>
+
+**Task *9. Divide and rule**
+ln<A script that prints the result of POWER divided by DIVIDE, followed by a new line>
