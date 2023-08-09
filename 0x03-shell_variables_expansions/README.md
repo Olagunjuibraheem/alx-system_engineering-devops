@@ -23,3 +23,6 @@ ln<A script that creates a new local variable>
 
 **Task *7. Global variable**
 ln<A script that creates a new Global variable>
+
+**Task *8. Every addition to true knowledge is an addition to human power**
+ln<A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line>
