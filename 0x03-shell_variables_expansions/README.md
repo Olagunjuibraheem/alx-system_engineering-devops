@@ -2,3 +2,6 @@ This is a README describing what each script is doing in this project **0x03. Sh
 
 **Task *0. <o>**
 ln<A script that creates an alias>
+
+**Task *1. Hello you**
+ln<A script that prints hello user, where user is the current Linux user>
