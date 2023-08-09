@@ -11,3 +11,6 @@ ln<A script that add a directory action to the last directory in PATH>
 
 **Task *3. If the path be beautiful, let us not ask where it leads**
 ln<A script that counts the number of directories in the PATH>
+
+**Task *4. Global variables**
+ln<A script that lists environment variables>
