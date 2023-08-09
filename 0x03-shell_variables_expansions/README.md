@@ -8,3 +8,6 @@ ln<A script that prints hello user, where user is the current Linux user>
 
 **Task *2. The path to success is to take massive, determined action**
 ln<A script that add a directory action to the last directory in PATH>
+
+**Task *3. If the path be beautiful, let us not ask where it leads**
+ln<A script that counts the number of directories in the PATH>
