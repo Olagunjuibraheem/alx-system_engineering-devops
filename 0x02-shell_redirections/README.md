@@ -33,3 +33,6 @@ ln<A script that deletes all the regular files (not the directories) with a .js 
 
 **Task *11. Don't just count your directories, make your directories count**
 ln<A script that counts the number of directories and sub-directories in the current directory>
+
+**Task *12. What’s new**
+ln<A script that displays the 10 newest files in the current directory>
