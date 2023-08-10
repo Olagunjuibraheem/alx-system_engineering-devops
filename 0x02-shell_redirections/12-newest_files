@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%t-%p\n' *(.om[10]) | sort -n
+ls -lt | head -n 11
