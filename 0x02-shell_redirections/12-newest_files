@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%s\n' *(.om[10])
+printf '%s\n' *(.om[10]) | sort -n
