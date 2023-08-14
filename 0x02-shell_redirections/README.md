@@ -54,3 +54,9 @@ ln<A script that display all the lines in the file /etc/passwd that do not conta
 
 **Task *18. Letters only please**
 ln<A script that display all lines of the file /etc/ssh/sshd_config starting with a letter>
+
+**Task *19. A to Z**
+ln<A script that replace all characters A and c from input to Z and e respectively>
+
+**Task *20. Without C, you would live in hiago**
+jn<A script that removes all letters c and C from input>
