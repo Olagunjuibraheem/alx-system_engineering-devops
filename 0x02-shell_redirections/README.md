@@ -36,3 +36,6 @@ ln<A script that counts the number of directories and sub-directories in the cur
 
 **Task *12. What’s new**
 ln<A script that displays the 10 newest files in the current directory>
+
+**Task *13. Being unique is better than being perfect**
+ln<A script that takes a list of words as input and prints only words that appear exactly once>
