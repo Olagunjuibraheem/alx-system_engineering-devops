@@ -39,3 +39,6 @@ ln<A script that displays the 10 newest files in the current directory>
 
 **Task *13. Being unique is better than being perfect**
 ln<A script that takes a list of words as input and prints only words that appear exactly once>
+
+**Task *14. It must be in that file**
+ln<A script that display lines containing the pattern “root” from the file /etc/passwd>
