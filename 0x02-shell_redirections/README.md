@@ -60,3 +60,6 @@ ln<A script that replace all characters A and c from input to Z and e respective
 
 **Task *20. Without C, you would live in hiago**
 jn<A script that removes all letters c and C from input>
+
+**Task *21. esreveR**
+ln<A  script that reverse its input>
