@@ -45,3 +45,12 @@ ln<A script that display lines containing the pattern “root” from the file /
 
 **Task *15. Count that word**
 ln<A script that display the number of lines that contain the pattern “bin” in the file /etc/passwd>
+
+**Task *16. What's next?**
+ln<A script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd>
+
+**Task *17. I hate bins**
+ln<A script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”>
+
+**Task *18. Letters only please**
+ln<A script that display all lines of the file /etc/ssh/sshd_config starting with a letter>
