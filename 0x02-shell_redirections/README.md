@@ -63,3 +63,6 @@ jn<A script that removes all letters c and C from input>
 
 **Task *21. esreveR**
 ln<A  script that reverse its input>
+
+**Task *22. DJ Cut Killer**
+ln<A script that displays all users and their home directories, sorted by users>
