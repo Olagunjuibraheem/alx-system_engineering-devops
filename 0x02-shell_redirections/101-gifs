@@ -1,2 +1,2 @@
 #!/bin/bash
-shopt -s dotglob; find . -type f -name '*.gif' -printf "%f\n" | LC_COLLATE=C sort -t. -k1,1 -f
+find . -type f -name '*.gif' -printf "%f\n" | sort -f | rev | cut -b 5- | rev
